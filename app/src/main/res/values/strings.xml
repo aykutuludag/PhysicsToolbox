@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Physics Toolbox</string>
+    <string name="exit">Tap again to exit</string>
+
+    <string name="menu_speed">Speed</string>
+    <string name="menu_light">Light</string>
+    <string name="menu_gravity">Gravity</string>
+    <string name="menu_magnetic">Magnetic field</string>
+    <string name="menu_pressure">Air pressure</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

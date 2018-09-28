@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_speed"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/menu_speed" />
+
+    <item
+        android:id="@+id/navigation_light"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/menu_light" />
+
+    <item
+        android:id="@+id/navigation_gravity"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/menu_gravity" />
+
+    <item
+        android:id="@+id/navigation_magnetic"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/menu_magnetic" />
+
+    <item
+        android:id="@+id/navigation_pressure"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/menu_pressure" />
+
+</menu>
